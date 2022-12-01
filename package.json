@@ -1,5 +1,5 @@
 {
-  "name": "vite-boolfix",
+  "name": "vue3-base",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.3",
     "vue": "^3.2.41"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
+    "sass": "^1.56.1",
     "vite": "^3.2.3"
   }
 }
